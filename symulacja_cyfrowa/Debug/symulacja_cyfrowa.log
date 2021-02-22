@@ -1,0 +1,85 @@
+﻿  ackevent.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\wifi.h(23,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  basestation.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  channel.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  checkingchannelevent.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\wifi.h(23,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  checkingcollisionevent.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\wifi.h(23,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\checkingcollisionevent.cpp(30,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  difswaitingevent.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\wifi.h(23,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\difswaitingevent.cpp(15,14): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  event.cpp
+  generateevent.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\wifi.h(23,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Generator.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\Generator.cpp(13,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\Generator.cpp(22,29): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\Generator.cpp(28,25): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  logger.cpp
+  main.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\wifi.h(23,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  package.cpp
+  simulator.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\wifi.h(23,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\simulator.cpp(39,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\simulator.cpp(46,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\simulator.cpp(63,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\simulator.cpp(141,33): warning C4244: "=": konwersja z "long double" do "size_t", możliwa utrata danych
+  wifi.cpp
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(34,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\generator.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(33,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(38,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\basestation.h(43,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\symulacja_cyfrowa\wifi.h(23,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  symulacja_cyfrowa.vcxproj -> F:\STUDIA\Semestr 6\Symulacja cyfrowa\Laboratoriu\symulacja_cyfrowa\Debug\symulacja_cyfrowa.exe
